@@ -5,8 +5,10 @@
     <mapping directory="$PROJECT_DIR$/kodilla-array" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-average" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-course1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-exception" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-forumuser" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-immutable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kodilla-patterns" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/kodilla-world" vcs="Git" />
   </component>
 </project>
